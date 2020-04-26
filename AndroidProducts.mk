@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_potter.mk
+    $(LOCAL_DIR)/cesium_potter.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_potter-user \
-    aosp_potter-userdebug \
-    aosp_potter-eng
+    cesium_potter-user \
+    cesium_potter-userdebug \
+    cesium_potter-eng
